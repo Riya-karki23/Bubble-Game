@@ -8,3 +8,5 @@ Features:
 *Random Bubbles: Bubbles with random numbers appear on the screen. 
 *Target Number: A target number is displayed, and the player must click on the bubble with that number to score.
 * Dynamic Interface: The interface updates in real-time, displaying the current score, remaining time, and the target number.
+
+* https://bubble-game-rho-seven.vercel.app/
